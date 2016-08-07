@@ -1,6 +1,6 @@
 # Pimp My Cause [Django]
 
-## Setup
+## Setup on your local machine
 
 1. Install [virtualenv](https://virtualenv.pypa.io/en/stable/): 
 
@@ -33,6 +33,7 @@
 8. You will need to have [Postgres installed](https://www.postgresql.org/download/) and up and running. You can onstall it via:
 	- Homebrew ```brew install postgresql```
 	- OR Download the [Postgress App](http://postgresapp.com/)
+	**NOTE: If you are using [Cloud9](c9.io) check out the [PostgreSQL setup isntructions](https://community.c9.io/t/setting-up-postgresql/1573).
 
 9. Make sure the Postgres Server is up and running:
 	- If using the App simply start the server from there
